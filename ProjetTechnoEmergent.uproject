@@ -49,8 +49,6 @@
 		"Android",
 		"IOS",
 		"Linux",
-		"TVOS",
-		"VisionOS",
 		"Windows"
 	]
 }
